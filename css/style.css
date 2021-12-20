@@ -1,0 +1,28 @@
+@font-face {
+  font-family: Bloody;
+  src: url('../font/BLOODY.TTF');
+}
+html {
+  font-family:'Bloody', Bloody, Bloody, Bloody, sans-serif;
+  background-image:url('https://cdn.discordapp.com/attachments/922633531082022952/922635445936992256/Untitled11.png');
+  background-repeat:no-repeat;
+  background-size:cover;
+  color:#ffffff;
+cursor: url('../'), pointer;
+}
+body {
+  margin: 0;
+  cursor: url('../img/wiimouse.png'), pointer;
+}
+.logo {
+  background: -webkit-linear-gradient(#eee, #333);
+}
+a {
+  cursor: url('../'), pointer;
+  text-decoration:none;
+  color:#ffffff;
+}
+button {
+  cursor: url('../img/wiimouse.png'), pointer;
+  font-size:25px;
+}
