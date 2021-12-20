@@ -1,9 +1,9 @@
 @font-face {
   font-family: Bloody;
-  src: url('../font/BLOODY.TTF');
+  src: url('../font/Inter-VariableFont_slnt,wght.ttf');
 }
 html {
-  font-family:'Bloody', Bloody, Bloody, Bloody, sans-serif;
+  font-family:'Inter', Inter, Inter, Inter, sans-serif;
   background-image:url('https://cdn.discordapp.com/attachments/922633531082022952/922635445936992256/Untitled11.png');
   background-repeat:no-repeat;
   background-size:cover;
